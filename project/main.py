@@ -11,7 +11,7 @@ from pprint import pprint
 
 
 #* VARIÁVEIS DE ENTRADA
-download_path = r'C:\Users\G-fire\Downloads'.replace('\*','/')
+download_path = r'C:\Users\FAEL\Downloads'.replace('\*','/')
 video_urls = ['https://www.youtube.com/watch?v=fYR9L2ZmodM&t=57s']
 
 
